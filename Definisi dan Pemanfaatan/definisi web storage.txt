@@ -1,0 +1,7 @@
+web storageadalah mekanisme untuk menyimpan nilai di dalam browser / di sisi client 
+yang bentuknya merupakan pasangan antara key and value pair
+
+tipe storage
+1. localStorage
+2. sessionStorage
+kedua storage ini hampir sama yang membedakan kapan nilai nya kadaluarsa/kapan nilai nya hilang 
